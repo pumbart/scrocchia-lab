@@ -1,0 +1,113 @@
+/**/_xdc_._cvicme && _xdc_._cvicme( {
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "20e",
+               "short_name" : "20e",
+               "types" : 
+               [
+                  "street_number"
+               ]
+            },
+            {
+               "long_name" : "Via Principe Amedeo",
+               "short_name" : "Via Principe Amedeo",
+               "types" : 
+               [
+                  "route"
+               ]
+            },
+            {
+               "long_name" : "Torino",
+               "short_name" : "Torino",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Torino",
+               "short_name" : "Torino",
+               "types" : 
+               [
+                  "administrative_area_level_3",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Città Metropolitana di Torino",
+               "short_name" : "TO",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Piemonte",
+               "short_name" : "Piemonte",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Italia",
+               "short_name" : "IT",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "10123",
+               "short_name" : "10123",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Via Principe Amedeo, 20e, 10123 Torino TO, Italia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 45.0675675,
+               "lng" : 7.6878411
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 45.0689480802915,
+                  "lng" : 7.689214780291502
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.0662501197085,
+                  "lng" : 7.686516819708498
+               }
+            }
+         },
+         "place_id" : "ChIJg_0ca2VtiEcR6DGjxG9Fr0Y",
+         "plus_code" : 
+         {
+            "compound_code" : "3M9Q+24 Torino TO, Italia",
+            "global_code" : "8FQ93M9Q+24"
+         },
+         "types" : 
+         [
+            "street_address"
+         ]
+      }
+   ],
+   "status" : "OK"
+} )
